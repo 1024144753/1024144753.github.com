@@ -16,4 +16,4 @@
 
 **My photo**
 
-![刘扬](https://github.com/1024144753/homepage/blob/master/1.jpg)
+![a](https://github.com/1024144753/homepage/blob/master/1.jpg)
